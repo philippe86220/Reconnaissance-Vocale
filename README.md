@@ -119,7 +119,7 @@ Certaines parties de l’intégration SwiftUI / AppKit (wrapper `NSTextView`, ge
 
 ---
 
-## Captures d’écran
+## Capture d’écran
 
 ![Présentation](assets/IMG_6003.jpg)
 
