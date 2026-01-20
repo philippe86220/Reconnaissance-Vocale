@@ -67,6 +67,8 @@ Le bouton **Clear** efface le contenu de l’éditeur et les buffers internes.
 
 Le slider permet d’ajuster dynamiquement la taille de la police dans l’éditeur.
 
+Le texte final peut être copier/collé.
+
 ---
 
 ## Structure du projet
