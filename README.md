@@ -113,7 +113,6 @@ Certaines parties de l’intégration SwiftUI / AppKit (wrapper `NSTextView`, ge
 
 ## Roadmap possible
 
-- [ ] Ajout de commandes vocales (ponctuation, nouvelle ligne, etc.)
 - [ ] Choix de la langue dynamiquement
 - [ ] Mode “ajout automatique avec espaces intelligents”
 - [ ] Sauvegarde / chargement de fichiers texte
